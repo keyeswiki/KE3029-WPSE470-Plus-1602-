@@ -53,7 +53,6 @@
 ## 3.测试代码(编码软件版本：arduino-1.8.12）
 
 ```
-
 volatile int flow_frequency; // Measures flow sensor pulses
 // Calculated litres/hour
 float vol = 0.0,l_minute;
