@@ -35,4 +35,4 @@
 
 注意：使用时水流的方向需与传感器的箭头方向一致，否则无法测量
 
-.. |image1| image:: media/42d41ebe373f8d21695e5252d5cf6475.png
+.. |image1| image:: media/42d41ebe373f8d21695e5252d5cf6475.jpg
