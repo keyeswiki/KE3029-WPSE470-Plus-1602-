@@ -18,7 +18,6 @@
 # -- Project information -----------------------------------------------------
 
 project = 'keyes WiKi'
-copyright = 'keyes , WiKi'
 author = 'keyes WiKi'
 copyright = 'Shenzhen keyes Technology Co., Ltd'
 
